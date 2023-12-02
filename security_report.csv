@@ -1,0 +1,8 @@
+File,Security_Issue
+./scanner.py,Potential password exposure
+./security_check_script.py,Potential password exposure
+./constants.py,Potential password exposure
+./main.py,Potential password exposure
+./TheWizards-SQA2023-AUBURN/KubeSec-master/scanner.py,Potential password exposure
+./TheWizards-SQA2023-AUBURN/KubeSec-master/constants.py,Potential password exposure
+./TheWizards-SQA2023-AUBURN/KubeSec-master/main.py,Potential password exposure
