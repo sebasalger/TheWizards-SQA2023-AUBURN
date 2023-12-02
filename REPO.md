@@ -10,3 +10,4 @@ Incorporating forensics into the project by modifying five chosen Python methods
 This modification allowed us to gather relevant forensic data during the execution of these methods. Integrating forensics into the development process ensured that we are better equipped to identify, analyze, and respond to incidents.
 
 To show our execution with fuzzing, the file named "fuzz_errors" has been included with our project. 
+We added two csv files to show security weaknesses
