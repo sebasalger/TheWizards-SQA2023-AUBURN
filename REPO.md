@@ -11,3 +11,6 @@ This modification allowed us to gather relevant forensic data during the executi
 
 To show our execution with fuzzing, the file named "fuzz_errors" has been included with our project. 
 We added two csv files to show security weaknesses
+
+We added 5 logging lines to the scanner.py file
+
