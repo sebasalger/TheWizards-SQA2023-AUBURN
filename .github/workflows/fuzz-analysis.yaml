@@ -21,4 +21,4 @@ jobs:
           pip install ruamel.yaml
 
       - name: execute py script # run main.py
-        run: python fuzz.py
+        run: python Fuzz.py
